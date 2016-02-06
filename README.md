@@ -1,2 +1,2 @@
 # Interleaved-String
-Algorithm for dealing with interleaved strings
+Algorithm(s) for dealing with interleaved strings
